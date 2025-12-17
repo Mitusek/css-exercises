@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+
+/* avatar + proportioned ma byc 300 wide
+avatar + disorted ma byc 200 wide + height = width x 2 */
